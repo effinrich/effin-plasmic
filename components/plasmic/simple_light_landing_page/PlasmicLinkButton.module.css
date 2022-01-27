@@ -1,0 +1,35 @@
+.root {
+  display: inline-flex;
+  width: auto;
+  height: auto;
+  position: relative;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+.roottype_solidBlue {
+  background: rgb(24, 119, 242);
+}
+.roottype_solidBlack {
+  background: rgb(24, 25, 26);
+}
+.roottype_outlineBlue {
+  border: 1px solid rgb(24, 119, 242) /* plasmic-token: p-fCTrfjtL4 */;
+}
+.roottype_small {
+  padding: 0px;
+}
+.roottype_solidBlue:hover {
+  background: rgb(23, 99, 207);
+}
+.roottype_solidBlack:hover {
+  background: rgb(50, 52, 54);
+}
+.slotTargetTexttype_solidBlue {
+  color: rgb(255, 255, 255) /* plasmic-token: ptmdXTepZxtpGo */;
+}
+.slotTargetTexttype_solidBlack {
+  color: rgb(255, 255, 255) /* plasmic-token: ptmdXTepZxtpGo */;
+}
+.slotTargetTexttype_outlineBlue {
+  color: rgb(24, 119, 242) /* plasmic-token: p-fCTrfjtL4 */;
+}
